@@ -83,7 +83,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">PetDog Complete Website</h3>
         <br />
         <a target="_blank" href="https://petdogwebsite.netlify.app">
-            <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/img1.jpg" width="100%" alt="PetDog Complete Website"/>
+            <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/img1.jpg" width="100%" alt="PetDog Complete Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy PetDog online.</strong></p>
@@ -101,7 +101,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/YouthDream0925/PetDog-Complete-Website" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/PetDog-Complete-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://petdogwebsite.netlify.app" target="_blank">
@@ -113,7 +113,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">eFresh Groceries Website</h3>
         <br />
       <a target="_blank" href="https://efreshgroceries.netlify.app">
-            <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/img2.jpg" width="100%"  alt="eFresh Groceries Website"/>
+            <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/img2.jpg" width="100%"  alt="eFresh Groceries Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy groceries. </strong></p>
@@ -131,7 +131,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/YouthDream0925/eFresh-Groceries-Website" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/eFresh-Groceries-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://efreshgroceries.netlify.app" target="_blank">
@@ -145,7 +145,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">eShop Website</h3>
         <br />
         <a target="_blank" href="">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/eshop1.jpg" width="100%" alt="eShop Website"/>
+          <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/eshop1.jpg" width="100%" alt="eShop Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy clothes online.</strong></p>
@@ -167,7 +167,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/YouthDream0925/eShop-Website" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/eShop-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://localhost:8080/shopping-cart/index.jsp" target="_blank">
@@ -178,8 +178,8 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">Food Website</h3>
       <br />
-        <a target="_blank" href="https://YouthDream0925.github.io/Food-Website/">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/img8.jpg" width="100%" alt="Food Website"/>
+        <a target="_blank" href="https://NakamuraSuzuki.github.io/Food-Website/">
+          <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/img8.jpg" width="100%" alt="Food Website"/>
         </a>
       <br />
         <p><strong>This is a website to buy food online.</strong></p>
@@ -198,7 +198,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/YouthDream0925/Food-Website" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/Food-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/Food-Website/" target="_blank">
@@ -211,8 +211,8 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">Dental Website</h3>
         <br />
-        <a target="_blank" href="https://YouthDream0925.github.io/DentalClinic-Website/">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/img9.jpg" width="100%" alt="Dental Website"/>
+        <a target="_blank" href="https://NakamuraSuzuki.github.io/DentalClinic-Website/">
+          <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/img9.jpg" width="100%" alt="Dental Website"/>
         </a>
         <br />
         <p><strong>This is a dental clinic website.</strong></p>
@@ -233,7 +233,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/YouthDream0925/DentalClinic-Website" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/DentalClinic-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/DentalClinic-Website/" target="_blank">
@@ -244,8 +244,8 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">Interior Website</h3>
       <br />
-        <a target="_blank" href="https://YouthDream0925.github.io/Interior-Design-Website/">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/interior.jpg" width="100%" alt="Interior Design Website"/>
+        <a target="_blank" href="https://NakamuraSuzuki.github.io/Interior-Design-Website/">
+          <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/interior.jpg" width="100%" alt="Interior Design Website"/>
         </a>
       <br />
         <p><strong>This is an interior design website.</strong></p>
@@ -264,7 +264,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
         <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/YouthDream0925/Interior-Design-Website" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/Interior-Design-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/Interior-Design-Website/" target="_blank">
@@ -277,8 +277,8 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
     <td width="50%" valign="top">
       <h3 align="center">UI Assignment</h3>
         <br />
-        <a target="_blank" href="https://YouthDream0925.github.io/UI-Assignment/">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/ui.jpg" width="100%" alt="UI Assignment"/>
+        <a target="_blank" href="https://NakamuraSuzuki.github.io/UI-Assignment/">
+          <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/ui.jpg" width="100%" alt="UI Assignment"/>
         </a>
         <br />
         <p><strong>This is a UI Assignment.</strong></p>
@@ -297,7 +297,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/YouthDream0925/UI-Assignment" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/UI-Assignment" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/UI-Assignment/" target="_blank">
@@ -309,7 +309,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       <h3 align="center">Calculator <br/> Light/Dark</h3>
         <br />
         <a target="_blank" href="https://calculatorlightdarkmode.netlify.app">
-          <img src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/img6.jpg" width="100%" alt="Matching Cards"/>
+          <img src="https://github.com/NakamuraSuzuki/Portfolio_Images/blob/master/img6.jpg" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p><strong>This is a calculator with a light/dark mode.</strong></p>
@@ -327,7 +327,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
       </p>
       <p align="center">
           
-  <a href="https://github.com/YouthDream0925/calculator-light-dark-mode" target="_blank">
+  <a href="https://github.com/NakamuraSuzuki/calculator-light-dark-mode" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://calculatorlightdarkmode.netlify.app" target="_blank">
