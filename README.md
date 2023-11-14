@@ -49,7 +49,7 @@ Discord
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, PHP, Node.js, Python, Dart, C++
 - React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
-- Codeigniter, Laravel, Express, Nest.js, Ruby on Rails, Gin, Django
+- Spring Boot , Laravel, Express.js, Nest.js , Django , ASP.NET
 
 #### Database
 Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB, IBM DB2, Redis
