@@ -1,6 +1,6 @@
 <br/>
 <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;私+の+プ+ロ+フ+ィ+ー+ル+へ+よ+う+こ+そ;Senior+Software+Engineer;" style="max-width: 100%;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;私のプロフィールへようこそ+.;Senior+Software+Engineer;" style="max-width: 100%;">
 </div>
 <br/>
 
