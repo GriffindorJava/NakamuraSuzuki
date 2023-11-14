@@ -1,17 +1,13 @@
-<div>
-    <img align="right" alt="Coding" height="250" width="400" src="https://github.com/YouthDream0925/Portfolio_Images/blob/master/Profile%20image.gif">
-</div>
-
 <br/>
 <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Welcome+to+my+profile+!;Senior+Software+Engineer;" style="max-width: 100%;">
 </div>
 <br/>
 
-<p>Plus 6 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<p>Plus 7 years of experience on Full-Stack development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 
 - Frontend : React.js, Next.js, Vue.js, Nuxt.js
-- Backend : Python/Django, PHP/Laravel, ASP.NET/C#
+- Backend : Java/Spring , Python/Django , PHP/Laravel, ASP.NET/C#
 
 Very good experienced API developer.
 I am a passionate developer so I can do anything. **Nothing is impossible**, This is my notion.
@@ -36,16 +32,16 @@ Discord
 </tr>
 <tr>
 <td>
-    youthdream0925@gmail.com
+    devprodev777@gmail.com
 </td>
 <td>
-    youthdream0925@outlook.com
+    loyalDev@outlook.com
 </td>
 <td>
-    live:.cid.7bfde7022e4c31ee
+    live:.cid.a4cfe7e3381fdc58
 </td>
 <td>
-    Big Dream#0094
+    bravo0929
 </td>
 </tr>
 </table>
