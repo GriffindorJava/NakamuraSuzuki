@@ -35,7 +35,7 @@ Discord
     devprodev777@gmail.com
 </td>
 <td>
-    loyalDev@outlook.com
+    LoyalDev929@outlook.com
 </td>
 <td>
     live:.cid.a4cfe7e3381fdc58
