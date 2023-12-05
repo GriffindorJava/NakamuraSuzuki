@@ -41,7 +41,7 @@ Discord
     live:.cid.a4cfe7e3381fdc58
 </td>
 <td>
-    bravo0929
+    KingStone0929
 </td>
 </tr>
 </table>
